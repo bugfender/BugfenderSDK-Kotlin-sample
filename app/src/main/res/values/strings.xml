@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bugfender - Kotlin Sample</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
